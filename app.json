@@ -1,0 +1,12 @@
+{
+  "name": "nasapp",
+  "displayName": "nasapp",
+  "expo": {
+    "name": "nasapp",
+    "slug": "nasapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
